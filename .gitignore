@@ -1,0 +1,14 @@
+.venv*/
+__pycache__/
+*.pyc
+*.sqlite*
+.env
+.env.*
+.DS_Store
+my-vault/
+memory-inbox/
+pdf-inbox/
+pdf-archive/
+pdf-import-staging/
+*.before-*
+*checkpoint*.zip
